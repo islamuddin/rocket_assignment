@@ -1,0 +1,409 @@
+=::: ::\
+ACLOCAL_PATH: C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\hp\AppData\Roaming
+CARGO: \\?\C:\Users\hp\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\bin\cargo.exe
+CARGO_CFG_TARGET_ARCH: x86_64
+CARGO_CFG_TARGET_ENDIAN: little
+CARGO_CFG_TARGET_ENV: msvc
+CARGO_CFG_TARGET_FAMILY: windows
+CARGO_CFG_TARGET_FEATURE: fxsr,mmx,sse,sse2
+CARGO_CFG_TARGET_HAS_ATOMIC: 16,32,64,8,ptr
+CARGO_CFG_TARGET_HAS_ATOMIC_LOAD_STORE: 16,32,64,8,ptr
+CARGO_CFG_TARGET_OS: windows
+CARGO_CFG_TARGET_POINTER_WIDTH: 64
+CARGO_CFG_TARGET_THREAD_LOCAL: 
+CARGO_CFG_TARGET_VENDOR: pc
+CARGO_CFG_WINDOWS: 
+CARGO_FEATURE_DEFAULT: 1
+CARGO_FEATURE_DEV_URANDOM_FALLBACK: 1
+CARGO_FEATURE_USE_HEAP: 1
+CARGO_HOME: C:\Users\hp\.cargo
+CARGO_MAKEFLAGS: --jobserver-fds=__rust_jobserver_semaphore_1748392315 --jobserver-auth=__rust_jobserver_semaphore_1748392315
+CARGO_MANIFEST_DIR: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.13.5
+CARGO_MANIFEST_LINKS: ring-asm
+CARGO_PKG_AUTHORS: Brian Smith <brian@briansmith.org>
+CARGO_PKG_DESCRIPTION: Safe, fast, small crypto using Rust.
+CARGO_PKG_HOMEPAGE: 
+CARGO_PKG_NAME: ring
+CARGO_PKG_REPOSITORY: https://github.com/briansmith/ring
+CARGO_PKG_VERSION: 0.13.5
+CARGO_PKG_VERSION_MAJOR: 0
+CARGO_PKG_VERSION_MINOR: 13
+CARGO_PKG_VERSION_PATCH: 5
+CARGO_PKG_VERSION_PRE: 
+CHOCOLATEYINSTALL: C:\ProgramData\chocolatey
+CHOCOLATEYLASTPATHUPDATE: 132310888586582474
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-A4PPODE
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+CONFIG_SITE: C:/Program Files/Git/mingw64/etc/config.site
+DATAGRIP: C:\Program Files\JetBrains\DataGrip 2019.3.3\bin;
+DEBUG: true
+DISPLAY: needs-to-be-defined
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+EXEPATH: C:\Program Files\Git
+HOME: C:\Users\hp
+HOMEDRIVE: C:
+HOMEPATH: \Users\hp
+HOST: x86_64-pc-windows-msvc
+HOSTNAME: DESKTOP-A4PPODE
+INFOPATH: C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+LANG: en_US.UTF-8
+LD_LIBRARY_PATH: C:\Users\hp\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib
+LOCALAPPDATA: C:\Users\hp\AppData\Local
+LOGONSERVER: \\DESKTOP-A4PPODE
+MANPATH: C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+MINGW_CHOST: x86_64-w64-mingw32
+MINGW_PACKAGE_PREFIX: mingw-w64-x86_64
+MINGW_PREFIX: C:/Program Files/Git/mingw64
+MSYSTEM: MINGW64
+MSYSTEM_CARCH: x86_64
+MSYSTEM_CHOST: x86_64-w64-mingw32
+MSYSTEM_PREFIX: C:/Program Files/Git/mingw64
+NUMBER_OF_PROCESSORS: 4
+NUM_JOBS: 4
+OLDPWD: F:/rust
+ONEDRIVE: C:\Users\hp\OneDrive
+OPT_LEVEL: 0
+ORIGINAL_PATH: C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\hp\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\PuTTY;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\bin;C:\OpenOCD-20191216-0.10.0\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\xampp\php;C:\composer;C:\Users\hp\.cargo\bin;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Local\atom\bin;C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\src\flutter\bin;C:\Program Files\JetBrains\DataGrip 2019.3.3\bin;C:\Users\hp\AppData\Roaming\npm;C:\Users\hp\AppData\Roaming\Composer\vendor\bin;C:\Users\hp\AppData\Local\GitHubDesktop\bin;C:\WinNMP\bin
+ORIGINAL_TEMP: C:/Users/hp/AppData/Local/Temp
+ORIGINAL_TMP: C:/Users/hp/AppData/Local/Temp
+OS: Windows_NT
+OUT_DIR: F:\rust\rocket_param_project\target\debug\build\ring-9897e829e57e7ae4\out
+PATH: F:\rust\rocket_param_project\target\debug\deps;F:\rust\rocket_param_project\target\debug;C:\Users\hp\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Users\hp\.cargo\bin;C:\Users\hp\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\bin;C:\Users\hp\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\hp\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\PuTTY;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\bin;C:\OpenOCD-20191216-0.10.0\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\xampp\php;C:\composer;C:\Users\hp\.cargo\bin;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Users\hp\AppData\Local\atom\bin;C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\src\flutter\bin;C:\Program Files\JetBrains\DataGrip 2019.3.3\bin;C:\Users\hp\AppData\Roaming\npm;C:\Users\hp\AppData\Roaming\Composer\vendor\bin;C:\Users\hp\AppData\Local\GitHubDesktop\bin;C:\WinNMP\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PKG_CONFIG_PATH: C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+PLINK_PROTOCOL: ssh
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 3a09
+PROFILE: debug
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PS1: \[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+PWD: F:/rust/rocket_param_project
+RUSTC: rustc
+RUSTDOC: rustdoc
+RUSTUP_HOME: C:\Users\hp\.rustup
+RUSTUP_TOOLCHAIN: nightly-x86_64-pc-windows-msvc
+RUST_RECURSION_COUNT: 1
+SESSIONNAME: Console
+SHELL: C:\Program Files\Git\usr\bin\bash.exe
+SHLVL: 1
+SSH_ASKPASS: C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\WINDOWS
+TARGET: x86_64-pc-windows-msvc
+TEMP: C:\Users\hp\AppData\Local\Temp
+TERM: xterm
+TMP: C:\Users\hp\AppData\Local\Temp
+TMPDIR: C:\Users\hp\AppData\Local\Temp
+USERDOMAIN: DESKTOP-A4PPODE
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-A4PPODE
+USERNAME: hp
+USERPROFILE: C:\Users\hp
+WINDIR: C:\WINDOWS
+_: C:/Users/hp/.cargo/bin/cargo
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\aes.obj" "crypto/fipsmodule/aes/aes.c"
+aes.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\exponentiation.obj" "crypto/fipsmodule/bn/exponentiation.c"
+exponentiation.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\generic.obj" "crypto/fipsmodule/bn/generic.c"
+generic.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\montgomery.obj" "crypto/fipsmodule/bn/montgomery.c"
+montgomery.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\montgomery_inv.obj" "crypto/fipsmodule/bn/montgomery_inv.c"
+montgomery_inv.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\shift.obj" "crypto/fipsmodule/bn/shift.c"
+shift.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\e_aes.obj" "crypto/fipsmodule/cipher/e_aes.c"
+e_aes.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\crypto.obj" "crypto/crypto.c"
+crypto.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\ecp_nistz.obj" "crypto/fipsmodule/ec/ecp_nistz.c"
+ecp_nistz.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\ecp_nistz256.obj" "crypto/fipsmodule/ec/ecp_nistz256.c"
+ecp_nistz256.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gfp_p256.obj" "crypto/fipsmodule/ec/gfp_p256.c"
+gfp_p256.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gfp_p384.obj" "crypto/fipsmodule/ec/gfp_p384.c"
+gfp_p384.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\limbs.obj" "crypto/limbs/limbs.c"
+limbs.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\mem.obj" "crypto/mem.c"
+mem.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gcm.obj" "crypto/fipsmodule/modes/gcm.c"
+gcm.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\curve25519.obj" "third_party/fiat/curve25519.c"
+curve25519.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\cpu-intel.obj" "crypto/cpu-intel.c"
+cpu-intel.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\lib.exe" "-out:F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\libring-core.a" "-nologo" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\aes-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\aesni-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\vpaes-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\x86_64-mont-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\x86_64-mont5-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\chacha-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\p256-x86_64-asm-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\aesni-gcm-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\ghash-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\poly1305-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\sha512-x86_64-nasm.obj" "C:\\Users\\hp\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.13.5\\pregenerated\\sha256-x86_64-nasm.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\aes.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\exponentiation.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\generic.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\montgomery.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\montgomery_inv.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\shift.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\e_aes.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\crypto.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\ecp_nistz.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\ecp_nistz256.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gfp_p256.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gfp_p384.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\limbs.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\mem.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\gcm.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\curve25519.obj" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\cpu-intel.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,mmx,sse,sse2")
+DEBUG = Some("true")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Od" "/RTCsu" "-c" "/FoF:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\constant_time_test.obj" "crypto/constant_time_test.c"
+constant_time_test.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\lib.exe" "-out:F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\libring-test.a" "-nologo" "F:\\rust\\rocket_param_project\\target\\debug\\build\\ring-9897e829e57e7ae4\\out\\constant_time_test.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=F:\rust\rocket_param_project\target\debug\build\ring-9897e829e57e7ae4\out

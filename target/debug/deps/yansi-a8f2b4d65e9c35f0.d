@@ -1,0 +1,13 @@
+F:\rust\rocket_param_project\target\debug\deps\yansi-a8f2b4d65e9c35f0.rmeta: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+F:\rust\rocket_param_project\target\debug\deps\libyansi-a8f2b4d65e9c35f0.rlib: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+F:\rust\rocket_param_project\target\debug\deps\yansi-a8f2b4d65e9c35f0.d: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs:
